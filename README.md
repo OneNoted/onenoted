@@ -1,6 +1,6 @@
 # Hey there, I'm Notes
 
-📌 **Stockholm** | 
+📌 **Stockholm**
 
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
@@ -64,5 +64,5 @@ I build random things here sometimes :D
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)](#)
 *anddd all the rest*
 
-**
+*Cya!*
 ---
