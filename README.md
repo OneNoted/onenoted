@@ -35,6 +35,11 @@ I build random things here sometimes :D
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 
+#### Dotfiles
+- ![NixOS](private) - niri/hyprland NixOS dotfiles *not public at the moment because laziness*
+- ![Arch](https://github.com/OneNoted/dotfiles) - niri/hyprland Arch dotfiles 
+
+
 #### Tools
 
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
