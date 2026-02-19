@@ -23,7 +23,7 @@ I build random things here sometimes :D
 - ![`whspr-rs`](https://github.com/OneNoted/whspr-rs) - Local-first speech-to-text with Whisper for privacy, speed and accuracy. 
 - ![`speake-rs`](https://github.com/OneNoted/speake-rs) - Flexible text-to-speech to leverage Local Qwen3-TTS for everyday use. CLI written in Rust. 
 - ![`prism-tui`](https://github.com/OneNoted/prism-tui) - TUI Wrapper for PrismLauncher CLI written in Rust and Ratatui
-- !['agitiser-rs'](https://github.com/OneNoted/agitiser-rs) - Agent CLI task completion tracker / notifier. 
+- ![agitiser-rs](https://github.com/OneNoted/agitiser-rs) - Agent CLI task completion tracker / notifier. 
 
 
 ### Software
