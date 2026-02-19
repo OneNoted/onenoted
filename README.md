@@ -13,10 +13,12 @@
 
 I build random things here sometimes :D
 
+
 > Professionally, I'm interning at an AM Firm doing market analysis while working as a DevOps Engineer & Full-Stack Developer the rest of the time. 
 
 
-## Open-Source Projects
+
+### Open-Source Projects
 
 - ![`whspr-rs`](https://github.com/OneNoted/whspr-rs) - Local-first speech-to-text with Whisper for privacy, speed and accuracy. 
 - ![`speake-rs`](https://github.com/OneNoted/speake-rs) - Flexible text-to-speech to leverage Local Qwen3-TTS for everyday use. CLI written in Rust. 
@@ -24,7 +26,7 @@ I build random things here sometimes :D
 - !['agitiser-rs'](https://github.com/OneNoted/agitiser-rs) - Agent CLI task completion tracker / notifier. 
 
 
-## Software
+### Software
 
 #### OS
 ![Proxmox VE](https://img.shields.io/badge/Proxmox-E57000?&style=plastic&logo=Proxmox&logoColor=white)
