@@ -23,20 +23,6 @@ I build random things here sometimes :D
 - ![`prism-tui`](https://github.com/OneNoted/prism-tui) - TUI Wrapper for PrismLauncher CLI written in Rust and Ratatui
 - !['agitiser-rs'](https://github.com/OneNoted/agitiser-rs) - Agent CLI task completion tracker / notifier. 
 
-## GitHub Activity
-
-<p>
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=OneNoted&show_icons=true&hide_border=true&rank_icon=github"
-    alt="OneNoted GitHub stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneNoted&layout=compact&hide_border=true"
-    alt="Top languages used by OneNoted"
-  />
-</p>
 
 ## Software
 
