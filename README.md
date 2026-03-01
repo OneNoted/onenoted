@@ -1,15 +1,15 @@
-**Stockholm**&nbsp;|&nbsp;DevOps&middot;Full-Stack&nbsp;|&nbsp;AM/Research Analysis Intern
+### **Stockholm**&nbsp;|&nbsp;DevOps&middot;Full-Stack&nbsp;|&nbsp;AM/Research Analysis Intern
 <br>
 
 <table>
 <tr>
 <td width="700" valign="top">
 
-### Hi there, I'm Notes!
+## Hi there, I'm Notes!
 
 Living in **Stockholm** doing **DevOps**, **Full-Stack** & interning as a **Research Analyst**
 
-I occasionally build things here:
+I occasionally build things here!
 
 #### **Open-Source Projects**
 
