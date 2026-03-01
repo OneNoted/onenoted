@@ -6,21 +6,16 @@
 <td width="700" valign="top">
 
 ## Hi there, I'm Notes!
-
 Living in **Stockholm** doing **DevOps**, **Full-Stack** & interning as a **Research Analyst**
-
 I occasionally build things here!
 
 #### **Open-Source Projects**
-
 [`whspr-rs`](https://github.com/OneNoted/whspr-rs) - Local-first speech-to-text<br><br>
 [`speake-rs`](https://github.com/OneNoted/speake-rs) - TTS with local Qwen3-TTS<br><br>
 [`prism-tui`](https://github.com/OneNoted/prism-tui) - TUI wrapper for PrismLauncher<br><br>
 [`agitiser-rs`](https://github.com/OneNoted/agitiser-rs) - Agent task tracker<br><br>
 [`sequoia-map`](https://github.com/OneNoted/sequoia-map) - Wynncraft web map
 
-
-*Empty space, terrifying...*
 </td>
 <td width="500" align="right" valign="top">
 <img src="https://stats.notes.supply/api?username=OneNoted&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="500" />
