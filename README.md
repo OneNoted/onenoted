@@ -18,9 +18,9 @@ I occasionally build things here!
 
 </td>
 <td width="500" align="right" valign="top">
-<img src="https://stats.notes.supply/api?username=OneNoted&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="500" />
-<img src="https://stats.notes.supply/api/top-langs?username=OneNoted&theme=catppuccin_mocha&layout=compact&hide_border=true&langs_count=8" width="500" />
-<img src="https://streak.notes.supply/?user=OneNoted&theme=catppuccin-mocha&hide_border=true" width="500" />
+<img src="https://stats.notes.supply/api?username=OneNoted&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&include_all_commits=true" width="500" />
+<img src="https://stats.notes.supply/api/top-langs?username=OneNoted&theme=catppuccin_mocha&layout=compact&hide_border=true&langs_count=8&include_all_commits=true" width="500" />
+<img src="https://streak.notes.supply/?user=OneNoted&theme=catppuccin-mocha&hide_border=true&include_all_commits=true" width="500" />
 </td>
 </tr>
 </table>
