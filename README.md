@@ -14,7 +14,8 @@ I occasionally build things here!
 [`speake-rs`](https://github.com/OneNoted/speake-rs) - TTS with local Qwen3-TTS<br><br>
 [`prism-tui`](https://github.com/OneNoted/prism-tui) - TUI wrapper for PrismLauncher<br><br>
 [`agitiser-rs`](https://github.com/OneNoted/agitiser-rs) - Agent task tracker<br><br>
-[`sequoia-map`](https://github.com/OneNoted/sequoia-map) - Wynncraft web map
+[`sequoia-map`](https://github.com/OneNoted/sequoia-map) - Wynncraft web map<br><br>
+[`nighterrors`](https://github.com/OneNoted/nighterrors) - Fast universal Wayland blue-light filter<br><br>
 
 </td>
 <td width="500" align="right" valign="top">
