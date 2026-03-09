@@ -16,6 +16,7 @@ I occasionally build things here!
 [`agitiser-rs`](https://github.com/OneNoted/agitiser-rs) - Agent task tracker<br><br>
 [`sequoia-map`](https://github.com/OneNoted/sequoia-map) - Wynncraft web map<br><br>
 [`nighterrors`](https://github.com/OneNoted/nighterrors) - Fast universal Wayland blue-light filter<br><br>
+[`zoop`](https://github.com/OneNoted/zoop) - Wayland OCR text extraction tool<br><br>
 
 </td>
 <td width="500" align="right" valign="top">
