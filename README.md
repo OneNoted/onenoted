@@ -10,7 +10,7 @@ Living in **Stockholm** doing **DevOps**, **Full-Stack** & interning as a **Rese
 I occasionally build things here!
 
 #### **Open-Source Projects**
-[`whspr-rs`](https://github.com/OneNoted/whspr-rs) - Local-first speech-to-text<br><br>
+[`whispers`](https://github.com/OneNoted/whispers) - Local-first speech-to-text<br><br>
 [`speake-rs`](https://github.com/OneNoted/speake-rs) - TTS with local Qwen3-TTS<br><br>
 [`prism-tui`](https://github.com/OneNoted/prism-tui) - TUI wrapper for PrismLauncher<br><br>
 [`agitiser-rs`](https://github.com/OneNoted/agitiser-rs) - Agent task tracker<br><br>
