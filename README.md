@@ -11,7 +11,8 @@ I occasionally build things here!
 
 #### **Open-Source Projects**
 [`whispers`](https://github.com/OneNoted/whispers) - Local-first speech-to-text<br><br>
-[`speake-rs`](https://github.com/OneNoted/speake-rs) - TTS with local Qwen3-TTS<br><br>
+[`speakers`](https://github.com/OneNoted/speake-rs) - TTS with local Qwen3-TTS<br><br>
+[`taskers`](https://github.com/OneNoted/taskers) - GUI Terminal Multiplexer/Emulator built with libghostty<br><br>
 [`prism-tui`](https://github.com/OneNoted/prism-tui) - TUI wrapper for PrismLauncher<br><br>
 [`agitiser-rs`](https://github.com/OneNoted/agitiser-rs) - Agent task tracker<br><br>
 [`sequoia-map`](https://github.com/OneNoted/sequoia-map) - Wynncraft web map<br><br>
