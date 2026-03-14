@@ -11,7 +11,7 @@ I occasionally build things here!
 
 #### **Open-Source Projects**
 [`whispers`](https://github.com/OneNoted/whispers) - Local-first speech-to-text<br><br>
-[`speakers`](https://github.com/OneNoted/speake-rs) - TTS with local Qwen3-TTS<br><br>
+[`speakers`](https://github.com/OneNoted/speakers) - TTS with local Qwen3-TTS<br><br>
 [`transcribers`](https://github.com/OneNoted/transcribers) - Unified TTS & STT HTTP API<br><br>
 [`taskers`](https://github.com/OneNoted/taskers) - GUI Terminal Multiplexer/Emulator built with libghostty<br><br>
 [`prism-tui`](https://github.com/OneNoted/prism-tui) - TUI wrapper for PrismLauncher<br><br>
