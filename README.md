@@ -50,7 +50,7 @@ I occasionally build things here!
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
 ![Proxmox VE](https://img.shields.io/badge/Proxmox-E57000?&style=plastic&logo=Proxmox&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white) *my name is Notes after all*
 
 #### Dotfiles
 
