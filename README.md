@@ -6,7 +6,7 @@
 <td width="700" valign="top">
 
 ## Hi there, I'm Notes!
-Living in **Stockholm** doing **DevOps**, **Full-Stack** & interning as a **Research Analyst**
+Living in **Stockholm** doing **DevOps**, **Full-Stack** & consulting as a **Market Researcher**
 I occasionally build things here!
 
 #### **Open-Source Projects**
