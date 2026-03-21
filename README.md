@@ -1,4 +1,4 @@
-### **Stockholm**&nbsp;|&nbsp;DevOps&middot;Full-Stack&nbsp;|&nbsp;AM/Research Analysis Intern
+### **Stockholm**&nbsp;|&nbsp;DevOps&middot;Full-Stack&nbsp;|&nbsp;AM/Research Consultant
 <br>
 
 <table>
