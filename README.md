@@ -8,7 +8,6 @@
 ## Hi there, I'm Notes!
 Living in **Stockholm** doing **DevOps**, **Full-Stack** & consulting as a **Market Researcher**
 I occasionally build things here!
-
 #### **Open-Source Projects**
 [`whispers`](https://github.com/OneNoted/whispers) - Local-first speech-to-text<br><br>
 [`speakers`](https://github.com/OneNoted/speakers) - TTS with local Qwen3-TTS<br><br>
