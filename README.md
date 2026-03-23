@@ -15,7 +15,6 @@ I occasionally build things here!
 [`transcribers`](https://github.com/OneNoted/transcribers) - Unified TTS & STT HTTP API<br><br>
 [`taskers`](https://github.com/OneNoted/taskers) - GUI Terminal Multiplexer/Emulator built with libghostty<br><br>
 [`prism-tui`](https://github.com/OneNoted/prism-tui) - TUI wrapper for PrismLauncher<br><br>
-[`agitiser-rs`](https://github.com/OneNoted/agitiser-rs) - Agent task tracker<br><br>
 [`sequoia-map`](https://github.com/OneNoted/sequoia-map) - Wynncraft web map<br><br>
 [`nighterrors`](https://github.com/OneNoted/nighterrors) - Fast universal Wayland blue-light filter<br><br>
 [`zoop`](https://github.com/OneNoted/zoop) - Wayland OCR text extraction tool<br><br>
