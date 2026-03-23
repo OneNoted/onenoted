@@ -58,5 +58,8 @@ I occasionally build things here!
 [Arch](https://github.com/OneNoted/dotfiles) &nbsp; &middot; &nbsp; NixOS *(private)*
 
 ### Contact
+
 e-mail: notes@madeingotland.com
+
 discord: onenotes
+
