@@ -6,7 +6,7 @@
 <td width="700" valign="top">
 
 ## Hi there, I'm Notes!
-Living in **Stockholm** doing **DevOps**, **Full-Stack** & consulting as a **Market Researcher**
+Living in **Stockholm** doing **DevOps**, **Full-Stack** & consulting as a **Market Researcher/Developer**
 I occasionally build things here!
 #### **Open-Source Projects**
 [`whispers`](https://github.com/OneNoted/whispers) - Local-first speech-to-text<br><br>
