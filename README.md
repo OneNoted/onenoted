@@ -59,7 +59,8 @@ I occasionally build things here!
 
 ### Contact
 
-e-mail: notes@madeingotland.com
+personal: notes@madeingotland.com
+work: jonatan.jonasson@madeingotland.com
 
 discord: onenotes
 
