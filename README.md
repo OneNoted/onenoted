@@ -52,6 +52,7 @@ I occasionally build things here!
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
 ![Proxmox VE](https://img.shields.io/badge/Proxmox-E57000?&style=plastic&logo=Proxmox&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)
+*insert Talos Linux & Bedrock Linux here*
 
 #### Dotfiles
 
