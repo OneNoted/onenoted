@@ -57,7 +57,7 @@ I occasionally build things here!
 
 #### Dotfiles
 
-[Arch](https://github.com/OneNoted/dotfiles) &nbsp; &middot; &nbsp; NixOS *(private)*
+[Bedrock Linux](https://github.com/OneNoted/dotfiles) &nbsp; &middot; &nbsp; NixOS *(private)*
 
 ### Contact
 
