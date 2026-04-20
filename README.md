@@ -39,8 +39,6 @@ I occasionally build things here!
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)
 
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
