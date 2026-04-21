@@ -12,6 +12,7 @@ I occasionally build things here!
 [`whispers`](https://github.com/OneNoted/whispers) - Local-first speech-to-text<br><br>
 [`speakers`](https://github.com/OneNoted/speakers) - TTS with local Qwen3-TTS<br><br>
 [`orators`](https://github.com/OneNoted/orators) - Turn your Linux Machine into a Bluetooth speaker<br><br>
+[`pvt`](https://github.com/OneNoted/pvt) - Proxmox VE/Talos Management TUI<br><br>
 [`transcribers`](https://github.com/OneNoted/transcribers) - Unified TTS & STT HTTP API<br><br>
 [`taskers`](https://github.com/OneNoted/taskers) - Agent Terminal Multiplexer/Emulator built with libghostty<br><br>
 [`inspectors`](https://github.com/OneNoted/inspectors) - Agent Controlled VM for automated testing of Desktop Applications<br><br>
