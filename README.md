@@ -30,30 +30,7 @@ I occasionally build things here!
 </tr>
 </table>
 
-### Stack
-
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
-![Nix](https://img.shields.io/badge/Nix-5277C3.svg?&logo=NixOS&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
-
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
-
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
-![Proxmox VE](https://img.shields.io/badge/Proxmox-E57000?&style=plastic&logo=Proxmox&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)
-*insert Talos Linux & Bedrock Linux here*
+*psst, you should try [neovim](https://github.com/neovim/neovim) sometime!*
 
 #### Dotfiles
 
