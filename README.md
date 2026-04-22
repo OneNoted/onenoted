@@ -8,7 +8,7 @@
 ## Hi there, I'm Notes!
 Living in **Stockholm** doing **DevOps**, **Full-Stack** working as a **Market Researcher/Software Engineer**
 I occasionally build things here!
-#### **Open-Source Projects**
+#### **Featured Open-Source Projects**
 [`whispers`](https://github.com/OneNoted/whispers) - Local-first speech-to-text<br><br>
 [`speakers`](https://github.com/OneNoted/speakers) - TTS with local Qwen3-TTS<br><br>
 [`orators`](https://github.com/OneNoted/orators) - Turn your Linux Machine into a Bluetooth speaker<br><br>
