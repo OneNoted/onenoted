@@ -22,7 +22,7 @@ I occasionally build things here!
 [`zoop`](https://github.com/OneNoted/zoop) - Wayland OCR text extraction tool<br><br>
 
 </td>
-<td width="800" align="right" valign="top">
+<td width="600" align="right" valign="top">
 <img src="https://stats.notes.supply/api?username=OneNoted&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true&commits_days=30&rank_icon=github&v=4" width="500" />
 </td>
 </tr>
